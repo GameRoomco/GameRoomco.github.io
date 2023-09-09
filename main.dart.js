@@ -20482,10 +20482,10 @@ h.R4(!0,!1,e,e,!0,!0,e)
 return h},
 agt(a,b){return new A.EV(a,b)},
 Z7(a,b,c,d,e,f,g,h){return new A.dC(f,h==null?new A.dA(Date.now(),!1):h,g,b,d,e,c,a)},
-ans(a,b,c){var s=new A.QC()
-if(s.$2(a,"mpd"))return new A.Bw(a,b,c,null,B.da.uy())
-else if(s.$2(a,"m3u8"))return new A.CY(a,b,c,null,B.da.uy())
-else return new A.F5(a,b,c,null,B.da.uy())},
+ans(a,b){var s=null,r=new A.QC()
+if(r.$2(a,"mpd"))return new A.Bw(a,b,s,s,B.da.uy())
+else if(r.$2(a,"m3u8"))return new A.CY(a,b,s,s,B.da.uy())
+else return new A.F5(a,b,s,s,B.da.uy())},
 ati(a,b){var s=new A.qc(A.ez(null,!1,t.lG),a)
 s.Rm(a,b)
 return s},
@@ -38799,9 +38799,9 @@ A.a6W.prototype={
 $0(){this.a.ar(new A.a6V())},
 $S:0}
 A.a6V.prototype={
-$0(){var s=null,r=A.anq()
-r.pX(A.ans(A.fx("asset:///assets/janam.mp3",0,s),s,s),s,!0)
-r.jw(0)},
+$0(){var s=A.anq()
+s.pX(A.ans(A.fx("https://pagalnew.com/download128/4884",0,null),null),null,!0)
+s.jw(0)},
 $S:0}
 A.a6X.prototype={
 $0(){this.a.ar(new A.a6U())},
