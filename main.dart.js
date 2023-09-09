@@ -38800,7 +38800,7 @@ $0(){this.a.ar(new A.a6V())},
 $S:0}
 A.a6V.prototype={
 $0(){var s=null,r=A.anq()
-r.pX(A.ans(A.fx("asset:///videos/janam.mp3",0,s),s,s),s,!0)
+r.pX(A.ans(A.fx("asset:///assets/videos/janam.mp3",0,s),s,s),s,!0)
 r.jw(0)},
 $S:0}
 A.a6X.prototype={
