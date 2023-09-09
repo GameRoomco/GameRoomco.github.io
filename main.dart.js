@@ -37758,7 +37758,7 @@ $0(){var s=0,r=A.P(t.H),q,p,o,n,m,l,k
 var $async$$0=A.Q(function(a,b){if(a===1)return A.M(b,r)
 while(true)switch(s){case 0:o=A.ajT()
 s=2
-return A.R($.kX().ek(0,"assets/janam.mp3"),$async$$0)
+return A.R($.kX().ek(0,"assets/videos/janam.mp3"),$async$$0)
 case 2:n=b
 m=A.ca(n.buffer,n.byteOffset,n.byteLength)
 l=new A.bK("")
